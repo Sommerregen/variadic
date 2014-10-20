@@ -3,7 +3,7 @@
 
 > A class for handling variadic functions with a variable number of arguments for PHP >= 5.3.
 
-[![Build Status](https://secure.travis-ci.org/sommerregen/variadic.png)](http://travis-ci.org/sommerregen/variadic) [Changelog](CHANGELOG.md)
+[![Build Status](https://api.travis-ci.org/Sommerregen/variadic.png)](http://travis-ci.org/sommerregen/variadic) [Changelog](CHANGELOG.md)
 
 ## About
 
